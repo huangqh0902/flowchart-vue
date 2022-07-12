@@ -1,3 +1,6 @@
+Python 2.7.0 
+nodejs 6.16.0
+
 # flowchart-vue
 
 > 项目flowchart的vue版本
